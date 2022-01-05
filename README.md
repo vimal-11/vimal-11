@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
+- 😄 Pronouns:-->
 - ✨ Enthusiastic about ... Quantum Computing 🚀 and Xtented Reality 🌐
-- ⚡ Fun fact: ...Quick Learner⏳ | Love Challenges🎁 | Passionate Dancer and Badminton Player🏸
+- ⚡ Fun fact: ...Quick Learner ⏳ | Love Challenges 🎁 | Passionate Dancer and Badminton Player🏸
 
