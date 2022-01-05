@@ -49,3 +49,19 @@ Here are some ideas to get you started:
 ![Skill](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Skill](https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=github&logoColor=white)
+<br>  
+
+## ❤ Connect
+
+
+<a href="https://www.linkedin.com/in/vimal11/">
+  <img align="left" alt="Vimal's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+
+<a href="mailto:vimalaadith.bs@gmail.com">
+  <img align="left" alt="Vimal's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
+
+<a href="https://www.instagram.com/_vimal_30/">
+  <img align="left" alt="Vimal's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
+</a>
