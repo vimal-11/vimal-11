@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
 - 📫 How to reach me: ...
-- 😄 Pronouns:-->
+- 😄 Pronouns: -->
 - ✨ Enthusiastic about ... Quantum Computing 🚀 and Xtented Reality 🌐
 - ⚡ Fun fact: ...Quick Learner ⏳ | Love Challenges 🎁 | Passionate Dancer and Badminton Player🏸  
 
 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimal-11)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimal-11&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
