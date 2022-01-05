@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <br>  
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=vimal-11.visitor-badge&style=flat-square&color=0088cc)<br>
-  <br>  
   
 ## My Github Stats
 
@@ -28,3 +27,17 @@ Here are some ideas to get you started:
 [![MyPTU](https://github-readme-stats.vercel.app/api/pin/?username=vimal-11&repo=django-myptu-webapp&show_icons=true&theme=radical)](https://github.com/vimal-11/django-myptu-webapp)
 [![Cardiac Disease Prediction](https://github-readme-stats.vercel.app/api/pin/?username=vimal-11&repo=cardiac_disease_prediction-ML&show_icons=true&theme=radical)](https://github.com/vimal-11/cardiac_disease_prediction-ML)
 
+## 📚 My Skills
+
+![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![Skill](https://img.shields.io/badge/c++-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Skill](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Skill](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Skill](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Skill](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
