@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ![Skill](https://img.shields.io/badge/jupyter-D3D3D3?style=for-the-badge&logo=jupyter&logoColor=FF700)
 ![Skill](https://img.shields.io/badge/SQLite-009EDB?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Skill](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Skill](https://img.shields.io/badge/JSON-00758F?style=for-the-badge&logo=json&logoColor=orange)
 ![Skill](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Skill](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Skill](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
