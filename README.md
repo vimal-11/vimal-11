@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Vimal, a Computer Science Sophomore @ Puducherry Technological University(PTU)
+
 <!--
 **vimal-11/vimal-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
