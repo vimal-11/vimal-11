@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vimal, a Computer Science Sophomore @ Puducherry Technological University(PTU).
+I'm Vimal, a Computer Science Sophomore @ Puducherry Technological University(PTU).  
 I'm a self-motivated undergrad interested in exploring new things and having new experiences. Always ready to upskill myself 🐱‍🏍
 
 <!--
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ✨ Enthusiastic about ... Quantum Computing 🚀 and Xtented Reality 🌐
 - ⚡ Fun fact: ...Quick Learner ⏳ | Love Challenges 🎁 | Passionate Dancer and Badminton Player🏸  
 
-
+  
+  
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimal-11&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
