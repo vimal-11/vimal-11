@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![Skill](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![Skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Skill](https://img.shields.io/badge/c++-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Skill](https://img.shields.io/badge/jupyter-FFA500?style=for-the-badge&logo=jupyter&logoColor=white)
+![Skill](https://img.shields.io/badge/jupyter-A9A9A9?style=for-the-badge&logo=jupyter&logoColor=FFA555)
 ![Skill](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Skill](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Skill](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
