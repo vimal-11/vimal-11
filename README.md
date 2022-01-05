@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Data Science and Machine Learning. 
 - ✨ Enthusiastic about ... Quantum Computing 🚀 and Xtented Reality 🌐
 - ⚡ Fun fact: ...Quick Learner ⏳ | Love Challenges 🎁 | Passionate Dancer and Badminton Player🏸  
+<br>  
 
+![](https://visitor-badge.laobi.icu/badge?page_id=vimal-11.visitor-badge&style=flat-square&color=0088cc)<br>
   
+  <br>
   
-  
+## My Stats
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimal-11&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
