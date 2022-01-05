@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi, I'm Vimal! 👋
 
-I'm Vimal, a Computer Science Sophomore @ Puducherry Technological University(PTU).  
-I'm a self-motivated undergrad interested in exploring new things and having new experiences. Always ready to upskill myself 🐱‍🏍
+I'm a Computer Science Sophomore @ Puducherry Technological University(PTU).  
+A self-motivated undergrad interested in exploring new things and having new experiences. Always ready to upskill myself 🐱‍🏍
 
 <!--
 **vimal-11/vimal-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=vimal-11.visitor-badge&style=flat-square&color=0088cc)<br>
   
-## My Github Stats
+## 📈 My Github Stats
 
 [![Vimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimal-11&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>  
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![MyPTU](https://github-readme-stats.vercel.app/api/pin/?username=vimal-11&repo=django-myptu-webapp&show_icons=true&theme=radical)](https://github.com/vimal-11/django-myptu-webapp)
 [![Cardiac Disease Prediction](https://github-readme-stats.vercel.app/api/pin/?username=vimal-11&repo=cardiac_disease_prediction-ML&show_icons=true&theme=radical)](https://github.com/vimal-11/cardiac_disease_prediction-ML)<br>
 
-## 📚 My Skills
+## 🛠 My Skills
 
 ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Skill](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=F7DF1E)
