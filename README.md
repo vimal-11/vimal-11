@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## 📚 My Skills
 
 ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Skill](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![Skill](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=F7DF1E)
 ![Skill](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
