@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Vimal, a Computer Science Sophomore @ Puducherry Technological University(PTU).  
 I'm a self-motivated undergrad interested in exploring new things and having new experiences. Always ready to upskill myself 🐱‍🏍
@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=vimal-11.visitor-badge&style=flat-square&color=0088cc)<br>
   <br>  
   
-### My Github Stats
+## My Github Stats
 
 [![Vimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimal-11&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<br>  
+
 ## ⚙ My Projects
 
 [![MyPTU](https://github-readme-stats.vercel.app/api/pin/?username=vimal-11&repo=django-myptu-webapp&show_icons=true&theme=radical)](https://github.com/vimal-11/django-myptu-webapp)
