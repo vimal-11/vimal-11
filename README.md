@@ -9,13 +9,16 @@ I'm a self-motivated undergrad interested in exploring new things and having new
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Python Development and Web-Development projects using Django Framework.
-- 🌱 I’m currently learning ... Data Science and Machine Learning.
-<!-- - 👯 I’m looking to collaborate on ... 
+- 🔭 I’m currently working on ... Python Development and Web-Development projects using Django Framework.
+- 🌱 I’m currently learning ... Data Science and Machine Learning.<!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
 - 📫 How to reach me: ...
 - 😄 Pronouns:-->
 - ✨ Enthusiastic about ... Quantum Computing 🚀 and Xtented Reality 🌐
-- ⚡ Fun fact: ...Quick Learner ⏳ | Love Challenges 🎁 | Passionate Dancer and Badminton Player🏸
+- ⚡ Fun fact: ...Quick Learner ⏳ | Love Challenges 🎁 | Passionate Dancer and Badminton Player🏸  
+
+
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimal-11)](https://github.com/anuraghazra/github-readme-stats)
 
