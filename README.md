@@ -10,16 +10,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... Python Development and Web-Development projects using Django Framework.
-- 🌱 I’m currently learning ... Data Science and Machine Learning.  <!--  👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns:
--->
+- 🌱 I’m currently learning ... Data Science and Machine Learning. 
 - ✨ Enthusiastic about ... Quantum Computing 🚀 and Xtented Reality 🌐
 - ⚡ Fun fact: ...Quick Learner ⏳ | Love Challenges 🎁 | Passionate Dancer and Badminton Player🏸  
 
 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimal-11&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimal-11&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
