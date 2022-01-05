@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ## ⚙ My Projects
 
+[![MyPTU](https://github-readme-stats.vercel.app/api/pin/?username=vimal-11&repo=django-myptu-webapp&show_icons=true&theme=radical)](https://github.com/vimal-11/django-myptu-webapp)
 [![Cardiac Disease Prediction](https://github-readme-stats.vercel.app/api/pin/?username=vimal-11&repo=cardiac_disease_prediction-ML&show_icons=true&theme=radical)](https://github.com/vimal-11/cardiac_disease_prediction-ML)<br>
 
 ## 🛠 My Skills
