@@ -48,3 +48,4 @@ Here are some ideas to get you started:
 ![Skill](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Skill](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Skill](https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
