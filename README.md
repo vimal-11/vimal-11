@@ -19,8 +19,11 @@ Here are some ideas to get you started:
   
 ## 📈 My Github Stats
 
-[![Vimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimal-11&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>  
+[![Vimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimal-11&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+  
+  ## 🚀 My Contibutions
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vimal-11&theme=radical" alt="vimal-11" /></p>
+  
 
 ## ⚙ My Projects
 
@@ -65,7 +68,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/_vimal_30/">
   <img align="left" alt="Vimal's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
 </a>  
-<br><br>
+<br><br>  
 
 ##  
 
